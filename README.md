@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# ShadowTokens
-
-test
-=======
 ![shadowtokens_github](/src/assets/docs/banner.png)
 
 ShadowTokens is a cross-chain bridge between Elastos and Ethereum, enabling users to transfer digital asset ownership information (ETH, ELA, and any ERC20, ERC677, or ERC827 tokens) from one chain to the other quickly and reliably. The objective of this bridge is two fold:
@@ -111,4 +106,3 @@ To withdraw ELA from the Smart Contract sidechain select the 'Withdraw' tab, ent
 That's it. Monitor the status field to view your withdrawal progress. 
 
 ![shadowtokens_github](/src/assets/docs/sidechain_4.png)
->>>>>>> upstream/main
